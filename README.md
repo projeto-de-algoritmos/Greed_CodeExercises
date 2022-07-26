@@ -28,6 +28,15 @@ O projeto tem como objetivo resolver alguns problemas de programação utilizand
 #### Solução aceita
 ![sol2](https://media.discordapp.net/attachments/991056595075080262/1001291181101166744/unknown.png?width=736&height=458)
 
+### [Parkway Walk](https://codeforces.com/problemset/problem/1697/A)
+
+![PWW1](https://media.discordapp.net/attachments/991056595075080262/1001300470029090876/unknown.png?width=795&height=458)
+
+![PWW2](https://media.discordapp.net/attachments/991056595075080262/1001300539914600539/unknown.png)
+
+### Solução aceita
+![sol3](https://media.discordapp.net/attachments/991056595075080262/1001300850607669258/unknown.png?width=826&height=458)
+
 ## Instalação 
 **Linguagem**: C++  
 **Pré-requsitos**: g++ >= 9.4.0;
