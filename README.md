@@ -11,8 +11,22 @@
 ## Sobre 
 O projeto tem como objetivo resolver alguns problemas de programação utilizando conhecimentos de algoritmos ambiciosos e suas aplicações.
 
-## Screenshots
+### Questões
+### [Not a Cheap String](https://codeforces.com/problemset/problem/1702/D)
+![NCS1](https://media.discordapp.net/attachments/991056595075080262/1001287493343256726/unknown.png?width=769&height=458)
 
+![NCS2](https://media.discordapp.net/attachments/991056595075080262/1001287598116966531/unknown.png?width=848&height=458)
+
+#### Solução aceita
+![sol1](https://media.discordapp.net/attachments/991056595075080262/1001289885593907260/unknown.png?width=661&height=458)
+
+### [Mark the Dust Sweeper](https://codeforces.com/problemset/problem/1705/B)
+![MDS1](https://media.discordapp.net/attachments/991056595075080262/1001289133869772800/unknown.png?width=858&height=458)
+
+![MDS2](https://media.discordapp.net/attachments/991056595075080262/1001289202966728887/unknown.png)
+
+#### Solução aceita
+![sol2](https://media.discordapp.net/attachments/991056595075080262/1001291181101166744/unknown.png?width=736&height=458)
 
 ## Instalação 
 **Linguagem**: C++  
