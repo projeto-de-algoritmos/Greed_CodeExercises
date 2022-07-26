@@ -35,7 +35,7 @@ g++ nomeDoArquivo.cpp -o nomeDoExecutavel
 ```
 ### 4 - Rode o executável
 ```
-./nomeDoExecutavel
+./nomeDoExecutavel < teste.txt
 ```
 
 ## Outros 
