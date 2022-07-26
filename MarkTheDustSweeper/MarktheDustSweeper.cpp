@@ -3,11 +3,8 @@
 
 using namespace std;
 
-int main(){
-    int t;
-    cin >> t;
-    while(t--){
-        int rooms;
+void greedy(){
+    int rooms;
         int i=0;
         cin >> rooms;
         vector <int> salas(rooms);
@@ -28,6 +25,13 @@ int main(){
             }
         }
         cout << sum << endl;
+}
+
+int main(){
+    int t;
+    cin >> t;
+    while(t--){
+        greedy();
     }
     return 0;
 }
