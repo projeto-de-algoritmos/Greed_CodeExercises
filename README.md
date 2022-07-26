@@ -11,7 +11,7 @@
 ## Sobre 
 O projeto tem como objetivo resolver alguns problemas de programação utilizando conhecimentos de algoritmos ambiciosos e suas aplicações.
 
-### Questões
+## Questões
 ### [Not a Cheap String](https://codeforces.com/problemset/problem/1702/D)
 ![NCS1](https://media.discordapp.net/attachments/991056595075080262/1001287493343256726/unknown.png?width=769&height=458)
 
