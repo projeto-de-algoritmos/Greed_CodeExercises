@@ -60,5 +60,7 @@ g++ nomeDoArquivo.cpp -o nomeDoExecutavel
 ```
 ./nomeDoExecutavel < teste.txt
 ```
+## Apresentação
+Disponível no repositório em [vídeo](greedyPA.mp4)
 
 ## Outros 
